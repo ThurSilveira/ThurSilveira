@@ -1,0 +1,45 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Engenharia em números</title>
+  <desc id="description">Seis repositórios públicos, dois produtos online, quatro plataformas entregues e um objetivo: entregar software útil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117" />
+      <stop offset="0.5" stop-color="#111827" />
+      <stop offset="1" stop-color="#07151C" />
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="40" x2="1120" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="250" rx="24" fill="url(#bg)" />
+  <path d="M72 56H1128" stroke="url(#line)" stroke-opacity="0.28" />
+  <text x="72" y="38" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">CURRENT SNAPSHOT · 2026</text>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="76" width="246" height="126" rx="16" fill="#111827" stroke="#312E81" />
+    <rect x="342" y="76" width="246" height="126" rx="16" fill="#111827" stroke="#5B21B6" />
+    <rect x="612" y="76" width="246" height="126" rx="16" fill="#111827" stroke="#0E7490" />
+    <rect x="882" y="76" width="246" height="126" rx="16" fill="#111827" stroke="#0F766E" />
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="195" y="137" text-anchor="middle" fill="#A78BFA" font-size="46" font-weight="800">6</text>
+    <text x="195" y="170" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="1.3">REPOSITÓRIOS PÚBLICOS</text>
+
+    <text x="465" y="137" text-anchor="middle" fill="#C4B5FD" font-size="46" font-weight="800">2</text>
+    <text x="465" y="170" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="1.3">PRODUTOS ONLINE</text>
+
+    <text x="735" y="137" text-anchor="middle" fill="#67E8F9" font-size="46" font-weight="800">4</text>
+    <text x="735" y="170" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="1.3">PLATAFORMAS</text>
+
+    <text x="1005" y="137" text-anchor="middle" fill="#5EEAD4" font-size="46" font-weight="800">1</text>
+    <text x="1005" y="170" text-anchor="middle" fill="#94A3B8" font-size="13" font-weight="700" letter-spacing="1.3">OBJETIVO: ENTREGAR</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="248.5" rx="23.25" stroke="url(#line)" stroke-opacity="0.25" stroke-width="1.5" />
+</svg>
